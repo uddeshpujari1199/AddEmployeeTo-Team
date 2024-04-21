@@ -1,0 +1,19 @@
+.EmpCart{
+    border: 1px solid burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 350px;
+    background-color: rgba(123, 121, 121, 0.66);
+    margin-bottom: 20px;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+    box-shadow: 10px 10px 20px black;
+}
+.EmpCart button{
+    padding: 7px;
+    background-color: royalblue;
+    border: none;
+    color: white;
+}
